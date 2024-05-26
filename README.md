@@ -6,7 +6,7 @@ Our system provides an automatic low-cost and user-friendly solution for charact
 For more information on setting up the experimental tank, please see the main text when available (Supplementary Material).
 
 
-#Get Started
+# Get Started
 This is the main repository containing three different files. 
 
 Two files are sketch to upload on an Arduino-based microcontroller for generating the horizontal thermal gradient (names files: "MultiSensorTemp_Recording_03Jan2023" and "reading_SensorAdress_03Jan23"). 
